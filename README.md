@@ -1,0 +1,2 @@
+# Building-the-map-of-New-York-and-other-desired-destinations
+Developed the map of New York city and other destinations as Europe, Africa, Nigeria and Ikeja, the capital city of Lagos Nigeria (Africa’s Business City). Achieved this by establishing the coordinates (Longitude and Latitude) of the desired destinations and using the python language to code the necessary frameworks and display the maps. 
